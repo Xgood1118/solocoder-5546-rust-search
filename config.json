@@ -1,0 +1,7 @@
+{
+  "port": 8346,
+  "index_dir": "./index_data",
+  "fetch_interval_secs": 300,
+  "nrt_commit_interval_ms": 1000,
+  "connectors": []
+}
