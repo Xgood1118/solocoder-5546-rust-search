@@ -101,3 +101,5 @@ screenshot_R*
 # ── SoloCoder runtime artifacts ──
 todo.db
 trae-*.log
+index_data/
+
